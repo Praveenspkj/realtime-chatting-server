@@ -7,7 +7,7 @@ git clone https://github.com/Praveenspkj/realtime-chatting-server.git
 ### Install packages
 
 ```shell
-npm i
+npm install
 ```
 
 ### Setup .env file
